@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am Hafiz Sukmono 
+I am Hafiz Sukmono from Indonesia :indonesia:
 
 ## Here are some ideas to get you started:
 
