@@ -6,7 +6,7 @@ I am Hafiz Sukmono from Indonesia :indonesia:
 
 - Data Science
 - Data Engineer
-- DataBases 
+- Database Administrator
 
 ## :man_mechanic: Skills :
 
