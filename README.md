@@ -2,7 +2,12 @@
 
 I am Hafiz Sukmono from Indonesia :indonesia:
 
-## My Skills and Interests :
+## Interests :
+
+- Data Scoence
+- Data Engineer
+
+## Skills :
 
 - Python 
 - SQL
