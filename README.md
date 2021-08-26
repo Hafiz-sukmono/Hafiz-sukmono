@@ -4,8 +4,9 @@ I am Hafiz Sukmono from Indonesia :indonesia:
 
 ## Interests :
 
-- Data Scoence
+- Data Science
 - Data Engineer
+- DataBases 
 
 ## Skills :
 
