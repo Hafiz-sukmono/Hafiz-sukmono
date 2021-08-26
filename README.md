@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am Hafiz Sukmono from Indonesia :indonesia:
+I am Hafiz Sukmono from Indonesia :indonesia_flag:
 
 ## Here are some ideas to get you started:
 
