@@ -12,6 +12,7 @@ I am Hafiz Sukmono from Indonesia :indonesia:
 
 - Python 
 - SQL
+- Java
 - JavaScript
 
 ## :mag: contact :
