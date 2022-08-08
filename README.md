@@ -5,6 +5,7 @@ I am Hafiz Sukmono from Indonesia :indonesia:
 ## :man_technologist: Interests :
 
 - Data Science
+- Data Analyst
 - Data Engineer
 - Database Administrator
 
@@ -13,7 +14,6 @@ I am Hafiz Sukmono from Indonesia :indonesia:
 - Python 
 - SQL
 - Java
-- JavaScript
 
 ## :mag: contact :
 <p>
